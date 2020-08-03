@@ -29,5 +29,5 @@
 	* [Naver_Weather.py](https://github.com/no-name-no-idea/2020-portfolio/blob/master/Python%20web%20crawler/Naver_Weather.py "Naver_Weather.py") : 네이버 날씨 정보를 크롤링하는 프로그램
 	* [Naver_Webtoon.py](https://github.com/no-name-no-idea/2020-portfolio/blob/master/Python%20web%20crawler/Naver_Webtoon.py "Naver_Webtoon.py") : 요일별 네이버 웹툰 목록 확인
 	* [Youtube_macro.py](https://github.com/no-name-no-idea/2020-portfolio/blob/master/Python%20web%20crawler/Youtube_macro.py "Youtube_macro.py") : Youtube 검색기능 활용 프로그램
-	* [color_game.py](https://github.com/no-name-no-idea/2020-portfolio/blob/master/Python%20web%20crawler/color_game.py "color_game.py") : color game 사이트 대리 플레이 프로그램
+	* [color_game.py](https://github.com/no-name-no-idea/2020-portfolio/blob/master/Python%20web%20crawler/color_game.py "color_game.py") : color game 사이트 플레이 프로그램
 	* [naver_login.py](https://github.com/no-name-no-idea/2020-portfolio/blob/master/Python%20web%20crawler/naver_login.py "naver_login.py") : 네이버 자동 로그인
